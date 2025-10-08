@@ -10,4 +10,5 @@ File kết quả: Buoi2_Nhóm5_Bài1.docx
 File: Buoi7_Nhóm5_Bai5.docx
 
 3. Google Docs – Cộng tác trực tuyến
-File: Buoi2_Nhóm5_Bài3.gdoc
+Link: https://docs.google.com/document/d/1MmHMoDIYtHAOMYy0F0gD9l3g66S00VtJM6ODEkrd7yY/edit?usp=sharing
+
